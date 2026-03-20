@@ -17,8 +17,11 @@ O projeto será desenvolvido em ambiente local, com versionamento e documentaç�
 When (Quando?)
 
 Estruturação dos dados: 19/03/2026
+
 Integração com Power BI: 20/03/2026
+
 Desenvolvimento do dashboard inicial: até 22/03/2026
+
 Versão final do projeto: até 26/03/2026
 
 Who (Quem?)
@@ -28,10 +31,15 @@ Projeto desenvolvido individualmente, com atuação em todas as etapas do pipeli
 How (Como?)
 
 Coleta e armazenamento dos dados via Google Sheets
+
 Conexão automática com Power BI via publicação em formato CSV
+
 Tratamento e transformação dos dados no Power Query
+
 Modelagem dimensional (modelo estrela)
+
 Criação de métricas utilizando DAX
+
 Desenvolvimento de dashboard interativo com indicadores financeiros
 
 How Much (Quanto?)
